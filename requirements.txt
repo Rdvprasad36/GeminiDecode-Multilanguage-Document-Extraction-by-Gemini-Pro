@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+faiss-cpu
+pillow
+pytesseract
+chromadb
+langchain_google_genai
+cassio
+tiktoken
+datasets 
