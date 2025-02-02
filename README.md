@@ -1,4 +1,5 @@
-GeminiDecode-Multilanguage-Document-Extraction-by-Gemini-Pro
+GeminiDecode-Multilanguage-Document-Extraction-by-Gemini-Pro.
+
 GeminiDecode is a state-of-the-art solution designed to extract and process data from documents in multiple languages with unmatched efficiency. By utilizing advanced natural language processing (NLP) and machine learning (ML) algorithms, it seamlessly identifies, extracts, and categorizes information from various document formats, ensuring both accuracy and speed. Ideal for global enterprises, GeminiDecode supports over 50 languages, providing robust data extraction capabilities that streamline workflows, enhance productivity, and improve decision-making processes.
 
 Features
